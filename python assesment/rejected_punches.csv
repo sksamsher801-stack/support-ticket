@@ -1,2 +1,0 @@
-employee_id,employee_name,device_ip,punch_type,punch_time,building_code,reason
-E-02,Rahul,10.0.0.99,IN,08-06-2026 09:12:00,KOL-A,Invalid Employee ID
