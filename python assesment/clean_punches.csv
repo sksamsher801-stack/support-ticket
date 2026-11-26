@@ -1,0 +1,2 @@
+employee_id,employee_name,device_ip,punch_type,punch_time,building_code,working_date
+E104,Mina Roy,10.0.0.11,OUT,09-06-2026 00:05:00,KOL-A,2026-06-08

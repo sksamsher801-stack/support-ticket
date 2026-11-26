@@ -1,0 +1,6 @@
+employee_id,employee_name,device_ip,punch_type,punch_time,building_code
+E101,Asha Sen,10.0.0.11,IN,08-06-2026 09:01:10,KOL-A
+E101,Asha Sen,10.0.0.11,IN,08-06-2026 09:01:40,KOL-A
+E101,Asha Sen,10.0.0.12,OUT,08-06-2026 18:15:00,KOL-B
+E-02,Rahul,10.0.0.99,IN,08-06-2026 09:12:00,KOL-A
+E104,Mina Roy,10.0.0.11,OUT,09-06-2026 00:05:00,KOL-A

@@ -1,0 +1,12 @@
+ATTENDANCE AUDIT SUMMARY
+========================
+Total rows: 5
+Clean rows: 1
+Duplicate count: 1
+Suspicious count: 2
+Rejected count: 1
+
+EMPLOYEE WISE SUMMARY
+E104 -> Total: 1, Clean: 1, Duplicate: 0, Suspicious: 0, Rejected: 0
+E101 -> Total: 3, Clean: 0, Duplicate: 1, Suspicious: 2, Rejected: 0
+E-02 -> Total: 1, Clean: 0, Duplicate: 0, Suspicious: 0, Rejected: 1
